@@ -20,15 +20,15 @@ Script contains a lot of comments to make it easier to understand the process. P
 
 ### Main Program:
 <p align="center">
-  <img src="./images/ps_main_program.svg" alt="My Image" width="600">
+  <img src="./images/ps_main_program.svg" alt="Main Program" width="600">
 </p>
 
 ### Processing Workspaces:
 <p align="center">
-  <img src="./images/ps_process_workspaces.svg" alt="My Image" width="600">
+  <img src="./images/ps_process_workspaces.svg" alt="Process Workspaces" width="600">
 </p>
 
 ### Processing Large Semantic Models:
 <p align="center">
-  <img src="./images/ps_process_semantic_models.svg" alt="My Image" width="600">
+  <img src="./images/ps_process_semantic_models.svg" alt="Process Large Semantic Models" width="600">
 </p>
