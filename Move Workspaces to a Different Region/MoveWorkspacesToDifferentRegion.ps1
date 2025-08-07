@@ -255,6 +255,7 @@ foreach ($workspace in $sourceWorkspaces) {
             } while ($status -ne "Completed")
 
             Write-Host ""
+            Write-Host "All Items in workspace have been converted!" -ForegroundColor Green
         }
 
         # ====================== [3.6] Check for Conversion errros and migrate the Workspace ======================
@@ -265,7 +266,6 @@ foreach ($workspace in $sourceWorkspaces) {
             
             # Converted Items are added to the collection only when there are no errors.
             [void]$convertedDatasets.Add($convertedDatasetsCurrentWS)
-            Write-Host "All Items in workspace have been converted!" -ForegroundColor Green
             
             # Move workspace to target Capacity
             try {
