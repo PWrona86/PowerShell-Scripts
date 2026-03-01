@@ -1,4 +1,13 @@
-# PowerShell for Power BI
+# PowerShell for Power BI Repository
+
+![Platform](https://img.shields.io/badge/Platform-Microsoft%20Fabric-blue)
+![Language](https://img.shields.io/badge/Primary-PySpark-orange)
+![Notebook](https://img.shields.io/badge/Type-Fabric%20Notebook-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+---
+
+## Overview
 
 This repository provides a collection of PowerShell scripts to automate and manage Power BI resources and environments. Whether you're a BI admin or developer, these tools are designed to streamline your workflow using PowerShell.
 
