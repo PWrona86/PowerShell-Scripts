@@ -1,8 +1,9 @@
 # PowerShell for Power BI Repository
 
-![Platform](https://img.shields.io/badge/Platform-Microsoft%20Fabric-blue)
-![Language](https://img.shields.io/badge/Primary-PySpark-orange)
-![Notebook](https://img.shields.io/badge/Type-Fabric%20Notebook-green)
+![Language](https://img.shields.io/badge/Language-PowerShell-blue)
+![Runtime](https://img.shields.io/badge/Runtime-Local%20%7C%20Azure%20Automation-purple)
+![Editor](https://img.shields.io/badge/Editor-VS%20Code-0078d7)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Cross--Platform-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
